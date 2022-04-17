@@ -1,0 +1,8 @@
+/*Параметры заголовка*/
+.table__heading {
+    margin: auto;
+    line-height: 1.15;
+    font-size: 24px;
+    font-weight: bold;
+    color: #000;
+  }

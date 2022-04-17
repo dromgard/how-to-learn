@@ -1,0 +1,13 @@
+/* Текстовый блок header */
+.header__subtitle {
+    margin: auto;
+    position: absolute;
+    bottom: 30px;
+    left: 64px;
+    width: 388px;
+    z-index: 2;
+    font-size: 18px;
+    font-weight: normal;
+    line-height: 25px;
+    color: #000;
+  }
