@@ -1,5 +1,5 @@
 /*Параметры таблицы Кауфмана, темная тема*/
 .table_theme_dark {
-    z-index: 1;
-    position: relative;
-  }
+  z-index: 1;
+  position: relative;
+}

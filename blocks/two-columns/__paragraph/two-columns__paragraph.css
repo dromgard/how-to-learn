@@ -1,13 +1,13 @@
 /*Задаем характеристики блока paragraph*/
 .two-columns__paragraph {
-    line-height: 34px;
-    font-size: 24px;
-    font-weight: normal;
-    margin: 30px 0 0 0;
-    color: #000;
-  }
+  line-height: 34px;
+  font-size: 24px;
+  font-weight: normal;
+  margin: 30px 0 0 0;
+  color: #000;
+}
 
-  /*Обнуляем отступы первого блока paragraph*/
+/*Обнуляем отступы первого блока paragraph*/
 .two-columns__paragraph:first-of-type {
-    margin-top: 0;
-  }
+  margin-top: 0;
+}

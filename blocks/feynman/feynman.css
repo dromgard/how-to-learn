@@ -1,12 +1,12 @@
 /*Параметры блока*/
 .feynman {
-    padding: 100px 0 0 0;
-    box-sizing: border-box;
-    min-height: 890px;
-    display: flex;
-    position: relative;
-    flex-direction: column;
-    align-items: center;
-    background: no-repeat left bottom url(../../images/feynman.png) #f2f2f2;
-    background-size: 867px 637px;
-  }
+  padding: 100px 0 0 0;
+  box-sizing: border-box;
+  min-height: 890px;
+  display: flex;
+  position: relative;
+  flex-direction: column;
+  align-items: center;
+  background: no-repeat left bottom url(../../images/feynman.png) #f2f2f2;
+  background-size: 867px 637px;
+}

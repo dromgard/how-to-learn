@@ -1,6 +1,6 @@
 /*Параметры заголовка, тёмная тема*/
 .section-title_theme_dark {
-    color: white;
-    z-index: 1;
-    position: relative;
-  }
+  color: white;
+  z-index: 1;
+  position: relative;
+}

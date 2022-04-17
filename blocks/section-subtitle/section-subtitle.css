@@ -1,10 +1,10 @@
 /*Общие параметры подписи заголовка*/
 .section-subtitle {
-    width: 60%;
-    margin: auto;
-    text-align: center;
-    line-height: 34px;
-    font-size: 24px;
-    font-weight: normal;
-    color: #000;
-  }
+  width: 60%;
+  margin: auto;
+  text-align: center;
+  line-height: 34px;
+  font-size: 24px;
+  font-weight: normal;
+  color: #000;
+}

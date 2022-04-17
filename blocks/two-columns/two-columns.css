@@ -1,7 +1,7 @@
 /* Задаем параметры flex */
 .two-columns {
-    display: flex;
-    width: 80%;
-    justify-content: space-between;
-    margin: auto;
-  }
+  display: flex;
+  width: 80%;
+  justify-content: space-between;
+  margin: auto;
+}
